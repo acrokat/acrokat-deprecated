@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
+title: Katherine Kampf
 tags: [about, Jekyll, theme, rocket, space]
-date: 2016-03-21
+date: 2021-07-08
 comments: false
 ---
     

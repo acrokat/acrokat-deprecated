@@ -1,7 +1,7 @@
 # Site
-title:              Rocket Space
-bio:                'Rocket Space'
-description:        "Rocket Space jekyll theme for you."
+title:              acrokat
+bio:                'Katherine Kampf, Product Manager'
+description:        "Hello World"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/rocket-ship.png'
@@ -37,24 +37,21 @@ disqus_shortname:   name
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:              asdaw
-twitter:            username
+email:              kvkampf@gmail.com
+twitter:            acrokat_
 #facebook:           username
-github-url:         username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          username
-xing:              username
-instagram:          username
+github-url:         acrokat
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          kkampf
+#xing:              username
+instagram:          happy_kampfer
 #lastfm:            username
 #tumblr:            username
 medium:            '@username'
 #pinterest:         username
-#foursquare:        username
-steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
-soundcloud:        username
 #weibo:             username
 #flickr:            username
 #codepen:           username
