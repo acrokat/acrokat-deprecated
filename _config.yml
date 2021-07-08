@@ -1,10 +1,10 @@
 # Site
-title:              acrokat
-bio:                'Katherine Kampf, Product Manager'
+title:              Katherine Kampf - acrokat
+bio:                'Product Manager'
 description:        "Hello World"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/rocket-ship.png'
+logo:               'assets/img/headshot.png'
 background:         
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
